@@ -113,10 +113,13 @@ Além de fornecer ótimos resultados de classificação, também permitiu interp
 ## 📸 Exemplos de Saída
 
 **Matriz de Confusão (Random Forest)**  
-![confusion_matrix](docs/confusion-matrix.png)
+![Matriz de Confusão](docs/confusion-matrix.png)
 
-**Curva ROC (Top 2 Modelos)**  
-![roc_curve](docs/roc-curve.png)
+**Curva ROC – Random Forest (AUC = 0.90)**  
+![Curva ROC - RF](docs/roc_rf.png)
+
+**Curva ROC – Decision Tree (AUC = 0.75)**  
+![Curva ROC - Tree](docs/roc_tree.png)
 
 ---
 
@@ -128,4 +131,4 @@ RM563065 — FIAP
 📧 [Link Repositorio](https://github.com/leojp04/wine-quality-predictor)
 ---
 
-✅ *Projeto desenvolvido como parte da avaliação CP5 — Inteligência Artificial e Machine Learning (FIAP).*
+✅ *Projeto desenvolvido como parte da avaliação CP5*
